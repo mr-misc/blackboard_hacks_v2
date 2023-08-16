@@ -1,3 +1,4 @@
-.head {
-    background-color: blue !important;
+.pageTitle {
+       display: none !important;
+/*     background-color: white !important; */
 }
